@@ -1,2 +1,2 @@
-Hi git this is my second code in git 
+Hi git this is my second code in git and commited sucessfully 
 
